@@ -10,3 +10,5 @@ Skills:
 - Bash
 
 Reflection: 
+That was fun project.I enjoyed building simple pages and making a good navigation. While it's very basic, I want to return to this project after learning some CSS.
+
