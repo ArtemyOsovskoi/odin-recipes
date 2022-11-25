@@ -1,0 +1,20 @@
+p {
+  color: rgb(111, 100, 160);
+}
+
+h1, h2 {
+  text-align: center;
+  color: rgb(22, 22, 36);
+  font-size: 48px;
+}
+
+.subheader {
+  font-size: 32px;
+}
+
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
