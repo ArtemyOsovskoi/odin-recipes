@@ -22,11 +22,11 @@ li{
  margin: 12px;
 }
 
-li:hover {
- background-color: rgb(215, 244, 255);
- color:aquamarine;
+a:hover {
+ background-color: rgb(11, 236, 188);
+ color:rgb(51, 2, 97);
  border: 1px solid-blue;
- border-radius: 24px;
+ border-radius: 8px;
  text-decoration: none;
  
 }
@@ -40,6 +40,7 @@ color: rgb(98, 107, 234);
 
 .subheader {
   font-size: 32px;
+  color:rgb(36, 34, 32);
 }
 
 .centerimage {
